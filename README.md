@@ -54,7 +54,8 @@ Developed by: Sifiz.A
 RegisterNumber:25010152
 
 <img width="571" height="370" alt="Screenshot (70)" src="https://github.com/user-attachments/assets/04ec4a1e-72d0-42a7-8bf2-f48ee860af53" />
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/5bd8a05f-8740-44ba-b27b-e959a056c952" />
+<img width="694" height="312" alt="Screenshot (71)" src="https://github.com/user-attachments/assets/e8358c0a-6b36-4d1d-87dd-85e1c2a9d27d" />
+
 
 
 **RTL Schematic**
